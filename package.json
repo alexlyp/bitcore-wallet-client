@@ -29,7 +29,7 @@
     "bitcore-lib": "git://github.com/decred/bitcore.git#master-new",
     "bitcore-mnemonic": "git://github.com/decred/bitcore-mnemonic.git",
     "bitcore-payment-protocol": "^1.1.0",
-    "browser-request": "^0.3.3",
+    "browser-request": "git://github.com/invokemedia/browser-request",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",
